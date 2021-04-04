@@ -13,6 +13,10 @@ hard(ele ira volta apagando tudo foi alterado antes).
 - git checkout nomeDaBranch -> Utilizado para trocar de branch.
 - git checkout NomeDoCommit|codigoResh -> Utilizado para voltar a uma commit especifico.
 - git diff -> Detalha as mudanças de todos os arquivo.
-- git diff --name -only -> saber qual arquivo foi alterado.
+- git diff --name-only -> saber qual arquivo foi alterado.
 - git diff nameDoArquivo -> Detalhará todos as mudanças do arquivo especifico!
 - git remote add origem Https... -> utilizado para adiciona meu repositorio local ao da nuvem.
+- git push origin :nomeDaBranch -> Utilizado para deletar o branch do repositorio remoto.
+- git branch -D nomeDaBranch -> Utilizado para deletar o branch do repositorio local.
+- git pull -> baixa modificações feitas.
+- git pull origin nomeDaBranch -> Utilizado para baixa na branch local desejada.
