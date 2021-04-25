@@ -1,5 +1,12 @@
 Comando de Git e suas Explicações
 
+-------------------------------------------------------------- Configuração Inicial do Giti ---------------------------------------------
+- git config --global user.name "Melquesedeque" 
+- git config --global user.email "melkzedeque12@gmail.com' 
+- git config --global color.status auto 
+- git config --global color.branch auto 
+- git config --global color.diff auto
+-------------------------------------------------------------
 - git init   -> Inicializar o repositorio.
 - git Status -> sempre que queira visualizar se tem arquivos a serem comitados, ou os arquivos que foram modificados.
 - git add -A -> Adiciona todos os arquivos novos/modificados para serem comitados. (tendo a opção de enviar arquivos especificos)
