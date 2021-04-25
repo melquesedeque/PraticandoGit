@@ -1,6 +1,6 @@
 Comando de Git e suas Explicações
 
--------------------------------------------------------------- Configuração Inicial do Giti ---------------------------------------------
+-------------------------------------------------------------- Configuração Inicial do Git ---------------------------------------------
 - git config --global user.name "Melquesedeque" 
 - git config --global user.email "melkzedeque12@gmail.com' 
 - git config --global color.status auto 
