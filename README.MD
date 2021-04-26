@@ -13,6 +13,8 @@ Comando de Git e suas Explicações
 - git commit -m "descrição do comite" ou git commit -am "descrição do comite" -> a 2ª opçao torna desnecessário o uso do "git add -A"
 - git log    -> lista todos comites realizados na quela branch(ramificação).
 - git branch -> Mostra todos as branch disponiveis e a que estar com o "*" é a branch atual.
+------------------------------------------------------------
+- git reset HEAD~1 --soft
 - git reset --soft|mixed|hard -> 3 opções de git reset soft(volta para o estado anterior ao git commit mantendo os arquivos a serem comitados),
 mixed(Volta para o estado anterios ao Add commit os arquivos estão esperando serem add pra depois comitar), 
 hard(ele ira volta apagando tudo foi alterado antes).
